@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "prompt": "^1.0.0"  // or the specific version you need
+    "prompt": "^1.0.0"
   }
 }
