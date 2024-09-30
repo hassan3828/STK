@@ -10,5 +10,6 @@
   "description": "",
   "dependencies": {
     "prompt": "^1.0.0"
+    "facebook-chat-api": "^2.0.0"
   }
 }
